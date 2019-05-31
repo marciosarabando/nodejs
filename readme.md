@@ -1,7 +1,7 @@
-#Projeto Cotações
+# Projeto Cotações
 
-#para executar configures as dependências
+# para executar configures as dependências
 `npm -i`
 
-#depois
+# Dgit sttepois
 `npm start` 
