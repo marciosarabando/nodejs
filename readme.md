@@ -3,5 +3,5 @@
 # para executar configures as dependências
 `npm -i`
 
-# Dgit sttepois
+# Depois digite
 `npm start` 
