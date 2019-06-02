@@ -53,14 +53,14 @@ app.get('',(req, res) => {
 app.get('/about',(req, res) => {
     res.render('about', {
         title: "Sobre",
-        author: "Marcio Sarabando"
+        author: "Criado por: Marcio Sarabando"
     });
 });
 
 app.get('/help',(req, res) => {
     res.render('help', {
         title: "Ajuda",
-        author: "Marcio Sarabando"
+        author: "Criado por: Marcio Sarabando"
     });
 });
 
